@@ -1,0 +1,2 @@
+Guarda aquí las capturas del taller (paso-1.png, paso-2.png, ...).
+Luego edita src/datos/taller.js y escribe el nombre en "imagen".
